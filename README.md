@@ -50,7 +50,7 @@ The analysis was conducted using **Python** for data preprocessing and **Power B
 
 ## 📊 Dashboard Preview
 
-![Uber Rides Dashboard](https://github.com/Uber-data-analysis/assets/example-dashboard.png)
+![Uber Rides Dashboard](https://github.com/AnuragKumar1712/Uber-Data-Analysis/blob/main/Dashboard%20(PowerBI)/Dashboard.png)
 
 ---
 
